@@ -1,0 +1,6 @@
+/* @import "./base.css"; */
+@import "bulma/css/bulma.min.css";
+
+.line-through {
+    text-decoration: line-through;
+}
